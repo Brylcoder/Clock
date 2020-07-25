@@ -1,3 +1,4 @@
+
 function setClock() {
     const hoursHand = document.querySelector('.hours'),
         minutesHand = document.querySelector('.minutes'),
